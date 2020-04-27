@@ -1,4 +1,4 @@
-#Messenger Refresh
+# Messenger Refresh
 Simple chrome extension to refresh messenger.com every 30 mins to fix a memory leak
 
 ## Todo
